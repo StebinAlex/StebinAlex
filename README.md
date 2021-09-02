@@ -2,7 +2,7 @@
 I am an iOS Developer.
 🔭 Working on [UIKit](https://developer.apple.com/documentation/uikit/) & [SwiftUI](https://developer.apple.com/documentation/swiftui/) projects, at [Lean Transition Solutions](https://www.leantransitionsolutions.com/).
 
-You can reach me through stebinalex96@gmail.com & (+91)7025640086
+You can reach me through stebinalex96@gmail.com, (+91)7025640086 & [LinkedIn](https://www.linkedin.com/in/stebinalex/).
 
 <!--
 **StebinAlex/StebinAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
