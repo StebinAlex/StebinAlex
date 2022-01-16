@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am an iOS Developer.
-🔭 Working on [UIKit](https://developer.apple.com/documentation/uikit/) & [SwiftUI](https://developer.apple.com/documentation/swiftui/) projects, at [Lean Transition Solutions](https://www.leantransitionsolutions.com/).
+🔭 Working on [UIKit](https://developer.apple.com/documentation/uikit/) & [SwiftUI](https://developer.apple.com/documentation/swiftui/) projects.
+Studying MSc Computer Science in University of Greenwich.
 
 You can reach me through stebinalex96@gmail.com, (+91)7025640086 & [LinkedIn](https://www.linkedin.com/in/stebinalex/).
 
